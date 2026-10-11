@@ -1,0 +1,3 @@
+Expense :hgfuy | Amount:2
+Expense :food | Amount:20
+Expense :game | Amount:65
